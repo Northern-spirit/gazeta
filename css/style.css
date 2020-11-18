@@ -1,0 +1,166 @@
+* {
+  padding: 0;
+  margin: 0;
+  border: 0; }
+
+*, *:before, *:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box; }
+
+:focus, :active {
+  outline: none; }
+
+a:focus, a:active {
+  outline: none; }
+
+nav, footer, header, aside {
+  display: block; }
+
+html, body {
+  height: 100%;
+  width: 100%;
+  font-size: 100%;
+  line-height: 1;
+  font-size: 14px;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%; }
+
+input, button, textarea {
+  font-family: inherit; }
+
+input::-ms-clear {
+  display: none; }
+
+button {
+  cursor: pointer; }
+
+button::-moz-focus-inner {
+  padding: 0;
+  border: 0; }
+
+a, a:visited {
+  text-decoration: none; }
+
+a:hover {
+  text-decoration: none; }
+
+ul li {
+  list-style: none; }
+
+img {
+  vertical-align: top; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: inherit;
+  font-weight: inherit; }
+
+body {
+  background-color: #c2af86; }
+
+.brdtop {
+  border-bottom: 2px solid black;
+  padding-bottom: 15px; }
+
+.border1 {
+  font-family: "Xanh Mono";
+  font-size: 25px;
+  display: inline-block;
+  border: 2px solid black;
+  width: 240px;
+  height: 90px;
+  margin: 0px 0px 0px 80px;
+  text-align: center;
+  padding-top: 10px; }
+
+.pepername {
+  display: inline-block;
+  text-align: center;
+  font-size: 90px;
+  width: 60%; }
+
+.weather {
+  display: inline-block;
+  border: 2px solid black;
+  width: 240px;
+  height: 90px;
+  text-align: center;
+  margin: 20px 0 0 0; }
+
+.content {
+  text-align: justify;
+  position: relative; }
+
+.horoskope {
+  border: 3px solid black;
+  height: 130%;
+  display: inline-table;
+  vertical-align: top;
+  width: 20%;
+  text-align: left; }
+  .horoskope h2 {
+    font-size: 30px;
+    text-align: center; }
+  .horoskope h3 {
+    padding: 10px 0px 10px 20px;
+    font-size: 20px; }
+  .horoskope p {
+    padding-left: 10px; }
+
+.bord2 {
+  text-align: justify;
+  position: relative;
+  display: inline-table;
+  border: 3px solid black;
+  vertical-align: top;
+  width: 21%;
+  height: 1264px; }
+
+.collums-article h2 {
+  font-size: 30px;
+  text-align: center;
+  font-family: "Montserrat Subrayada"; }
+
+.collums-article p {
+  font-size: 19px;
+  font-family: "Squada One"; }
+
+.bord3 {
+  font-family: "Xanh Mono";
+  font-size: 25px;
+  display: inline-table;
+  border: 2px solid black;
+  width: 21%;
+  height: 1264px;
+  text-align: center;
+  padding-top: 10px; }
+  .bord3 h3 {
+    font-size: 40px; }
+  .bord3 p {
+    font-size: 19px; }
+
+.bord4 {
+  display: inline-table;
+  border: 2px solid black;
+  width: 705px;
+  height: 1265px;
+  vertical-align: top;
+  text-align: center;
+  font-size: 40px;
+  font-family: "Shrikhand";
+  vertical-align: top; }
+
+.ss {
+  color: black; }
+
+.footer {
+  border-top: 2px solid black;
+  padding-top: 15px; }
+
+.padtext {
+  text-align: center;
+  padding: 10px; }
+
+.padtext2 {
+  text-align: center; }
